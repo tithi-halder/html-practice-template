@@ -75,3 +75,31 @@
 	width: 100%;
 	height: auto;
 }
+
+.team{
+	display: flex;
+	width: 100%;
+	height: auto;
+	background: goldenrod;
+	color: black;
+	padding: 10px;
+}
+.teams{
+	width: 80%;
+	height: auto;
+	padding: 10px;
+	text-align: center;
+
+}
+.teams img{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+.footer{
+	text-align: center;
+}
+.links a{
+	text-decoration: none;
+	color: black;
+}
